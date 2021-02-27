@@ -1,0 +1,23 @@
+{
+  "name": "updatejsonapi",
+  "version": "1.0.0",
+  "description": "for quotes from years",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llmcd/updatejsonapi.git"
+  },
+  "author": "llmcd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llmcd/updatejsonapi/issues"
+  },
+  "homepage": "https://github.com/llmcd/updatejsonapi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
